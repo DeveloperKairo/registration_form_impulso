@@ -98,6 +98,18 @@ button:hover {
     color: #732d91;
 }
 
+.input-error {
+  border-color: #e74c3c;
+}
+
+.error-message {
+  color: #e74c3c;
+  font-size: 0.87rem;
+  margin-top: 0.2rem;
+  display: block;
+  min-height: 18px;
+}
+
 @media (max-width: 480px) {
     .form-container {
         padding: 1.5rem;
